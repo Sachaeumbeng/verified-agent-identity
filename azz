@@ -6,11 +6,11 @@ on:
       agent_name:
         description: 'adazz'
         required: true
-        default: 'uangdroid'
+        default: 'adazz'
       agent_description:
-        description: 'uangdroid'
+        description: 'adazz'
         required: true
-        default: 'uangdroid AI Agent'
+        default: uadazz AI Agent'
 
 jobs:
   verify:
